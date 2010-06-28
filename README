@@ -1,11 +1,9 @@
 LINAI is an artificial intelligence of the Gomoku game (also known as Gobang)
-It has been developped by 3 students, Gasparina Damien, Conrath Adrien,
-Sednoaui Maxime in one weeks
+It has been developed by 3 students, Gasparina Damien, Conrath Adrien and Sednaoui Maxime in one weeks
 
-We use alpha beta pruning (an improvement of the minmax algorithm).
 To compile our project you need the boost library
 (we use boost::asio for a network interface)
 
-If you want more information you can contact me at 'gaspar_d@epita.fr'
+If you want more informations, feel free to contact me at 'gaspar_d@epita.fr'
 
-To test our `AI` : ./bin/gobang play
+To play against our `AI` : ./bin/gobang play
